@@ -143,6 +143,9 @@ The focus was on validating:
 | 🟢 Low    | 1     | Minor issues                  |
 
 
+---
+
+📄 👉 Full test report includes detailed execution metrics, defect analysis, and release recommendation.: ![View Report](/Test_Report_Urban_Lunch.pdf)
 
 ---
 

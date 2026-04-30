@@ -132,20 +132,16 @@ The focus was on validating:
 
 
 
----
+### 📊 Bug Priority Distribution
 
-## 📊 Bug Priority Distribution
-
-| Severity  | Count | Description                   |
+| Priority  | Count | Description                   |
 | --------- | ----- | ----------------------------- |
 | 🔴 High   | 2     | Critical functionality issues |
 | 🟠 Medium | 5     | UI and logic inconsistencies  |
 | 🟢 Low    | 1     | Minor issues                  |
 
 
----
-
-📄 👉 Full test report includes detailed execution metrics, defect analysis, and release recommendation.: ![View Report](/Test_Report_Urban_Lunch.pdf)
+📄 Full test report includes detailed execution metrics, defect analysis, and release recommendation: 👉[View Report](/Test_Report_Urban_Lunch.pdf)
 
 ---
 
@@ -252,7 +248,7 @@ The total amount reflects only the sum of the dishes. The delivery costs are not
 
 ---
 
-# 📊 Results & Impact
+## 📊 Results & Impact
 
 * Executed **45 test cases**
 * Identified **8 defects**, including **critical calculation issues**
@@ -264,7 +260,7 @@ The total amount reflects only the sum of the dishes. The delivery costs are not
 
 ---
 
-# 💡 Key Takeaways
+## 💡 Key Takeaways
 
 This project strengthened my skills in:
 
@@ -276,7 +272,7 @@ This project strengthened my skills in:
 
 ---
 
-# 💬 Reflection
+## 💬 Reflection
 
 Testing the Urban Lunch mobile app helped me understand how **user experience changes significantly on mobile devices** compared to web applications.
 
@@ -288,7 +284,7 @@ It also reinforced the importance of:
 
 ---
 
-## ⭐ Author
+### ⭐ Author
 
 **Warunee Dinunzio**  
 QA Automation Engineer | Software Engineer  
